@@ -51,6 +51,10 @@ public class Player : MonoBehaviour
 
 	DoubleJump doubleJump;
 
+    public GameObject playerModel;
+
+    public Animator animator;
+
 
 
     // Start is called before the first frame update
@@ -179,34 +183,64 @@ public class Player : MonoBehaviour
     		
     	}
 
+        if(IsIdle())
+        {
+            animator.SetFloat("Speed",0);
+        }
+
     }
 
+    bool IsIdle()
+    {
+        if(!Input.GetKey(KeyCode.W) && 
+            !Input.GetKey(KeyCode.A) && 
+            !Input.GetKey(KeyCode.S) && 
+            !Input.GetKey(KeyCode.D) &&
+            !isJumping)
+        {
+            return true;
+        }
 
-    void Jump(){
-    	isJumping = true;
-    	yForce = jumpSpeed;
+        return false;
     }
-
+    
     // moving in all directions
     void MoveForward()
     {
     	myController.Move(Vector3.forward * Time.deltaTime * speed);
+        playerModel.transform.eulerAngles = new Vector3(0,0,0);
+        animator.SetFloat("Speed",1);
     }
 
     void MoveBack()
     {
     	myController.Move(Vector3.back * Time.deltaTime * speed);
+        playerModel.transform.eulerAngles = new Vector3(0,180,0);
+        animator.SetFloat("Speed",1);
     }
 
     void MoveLeft()
     {
     	myController.Move(Vector3.left * Time.deltaTime * speed);
+
+        playerModel.transform.eulerAngles = new Vector3(0,270,0);
+        animator.SetFloat("Speed",1);
     }
 
     void MoveRight()
     {
     	myController.Move(Vector3.right * Time.deltaTime * speed);
+
+        playerModel.transform.eulerAngles = new Vector3(0,90,0);
+        animator.SetFloat("Speed",1);
     }
+
+    void Jump(){
+        isJumping = true;
+        yForce = jumpSpeed;
+        // Jump Animation
+    }
+
 
     void Dash(Vector3 direction)
     {
