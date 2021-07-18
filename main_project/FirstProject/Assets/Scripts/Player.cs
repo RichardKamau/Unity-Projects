@@ -114,7 +114,10 @@ public class Player : MonoBehaviour
     	if(myController.isGrounded && yForce < 0)
     	{
     		isJumping = false;
+            
     		doubleJump.available = true;
+
+            animator.SetBool("IsJumping",false);
     	}
 
     	if(!myController.isGrounded)
@@ -238,7 +241,7 @@ public class Player : MonoBehaviour
     void Jump(){
         isJumping = true;
         yForce = jumpSpeed;
-        // Jump Animation
+        animator.SetBool("IsJumping",true);
     }
 
 
