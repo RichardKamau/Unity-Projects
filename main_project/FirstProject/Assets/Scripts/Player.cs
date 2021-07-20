@@ -104,6 +104,7 @@ public class Player : MonoBehaviour
         		{
         			doubleJump.available = false;
         			Jump();
+                    animator.SetTrigger("DoubleJump");
         		}
         	}
         }
