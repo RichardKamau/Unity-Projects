@@ -1243,3 +1243,307 @@ Received Import Request.
 Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Occlusion.png using Guid(ba32f6da598d79f489ca6ed57aba27bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893b1d3df96f8856c5f1e42ba574302d') in 0.048050 seconds
   Import took 0.058060 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 10416.572999 seconds.
+  path: Assets/Characters/PlayerAnimatorController.controller
+  artifactKey: Guid(9f0ee51f368234a4f86d0456563603ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/PlayerAnimatorController.controller using Guid(9f0ee51f368234a4f86d0456563603ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9499136d406312a2b880af411b818602') in 0.333706 seconds
+  Import took 0.370191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.284103 seconds.
+  path: Assets/Characters/FatElvis/textures
+  artifactKey: Guid(4685ffe85b72647009fb80df45181f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/FatElvis/textures using Guid(4685ffe85b72647009fb80df45181f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a60157864eff5c9a5f6888b03556a9') in 0.002407 seconds
+  Import took 0.010793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3112.160349 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Albedo.mat
+  artifactKey: Guid(873d8c0ad98f04f54915d19558925232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Albedo.mat using Guid(873d8c0ad98f04f54915d19558925232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712416b447b7cefbfa16b3f9b41c45dd') in 0.109318 seconds
+  Import took 0.143327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_height.mat
+  artifactKey: Guid(ba01789b8d0ef4d479d5837d00eb6ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_height.mat using Guid(ba01789b8d0ef4d479d5837d00eb6ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cd8b2da59c1f789d2a7c91ef36d058') in 0.022999 seconds
+  Import took 0.029824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/BathroomTiles/Materials/BathroomTiles_height.mat
+  artifactKey: Guid(36a2da3b718d74ac2a682f99c89c6d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/BathroomTiles/Materials/BathroomTiles_height.mat using Guid(36a2da3b718d74ac2a682f99c89c6d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5bb83284153401421f68d4afb63bba') in 0.022378 seconds
+  Import took 0.029350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Roughness.mat
+  artifactKey: Guid(549906002765447e08c3ffc152e828c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Roughness.mat using Guid(549906002765447e08c3ffc152e828c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba6548238f802e0f76f9c78e6186999') in 0.021347 seconds
+  Import took 0.026550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_height.mat
+  artifactKey: Guid(ba01789b8d0ef4d479d5837d00eb6ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_height.mat using Guid(ba01789b8d0ef4d479d5837d00eb6ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cd8b2da59c1f789d2a7c91ef36d058') in 0.097705 seconds
+  Import took 0.103157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_Height.mat
+  artifactKey: Guid(a140dcf61e21343809d0c28bdb17d808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_Height.mat using Guid(a140dcf61e21343809d0c28bdb17d808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfa980a81cbfb89d014135616d398ac') in 0.033421 seconds
+  Import took 0.043568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001404 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Albedo.mat
+  artifactKey: Guid(873d8c0ad98f04f54915d19558925232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Albedo.mat using Guid(873d8c0ad98f04f54915d19558925232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712416b447b7cefbfa16b3f9b41c45dd') in 0.021990 seconds
+  Import took 0.027498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001980 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_ao.mat
+  artifactKey: Guid(f7dafd612913b48f3b223284cdbf9213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_ao.mat using Guid(f7dafd612913b48f3b223284cdbf9213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3b2203e0c6f3a8a9a856e7cde022c1') in 0.027031 seconds
+  Import took 0.033715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Smoothness.mat
+  artifactKey: Guid(0d49242d3affb4ecfb7ed5cab7362d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/Materials/AgedDarkWood_Smoothness.mat using Guid(0d49242d3affb4ecfb7ed5cab7362d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a74760cd2be8753d72f0e00bc7828a3f') in 0.025062 seconds
+  Import took 0.032788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_Smoothness.mat
+  artifactKey: Guid(44566cde0aebc4fd89716c47a6e47982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_Smoothness.mat using Guid(44566cde0aebc4fd89716c47a6e47982) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad4b54ae994a12493d0a67502c37db5') in 0.019375 seconds
+  Import took 0.025503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_Roughness.mat
+  artifactKey: Guid(2a57f612491f246498ea21162eedcda2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/Materials/BasketWeaveBricks_Roughness.mat using Guid(2a57f612491f246498ea21162eedcda2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a1feb387262c7336c4542da36c1baf') in 0.037567 seconds
+  Import took 0.042160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.960122 seconds.
+  path: Packages/com.unity.cinemachine/package.json
+  artifactKey: Guid(7d93e7b7399fbe64790358e67fc94b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.cinemachine/package.json using Guid(7d93e7b7399fbe64790358e67fc94b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba7ae806258ef398ea6781e1d96ee1a') in 0.606231 seconds
+  Import took 0.612022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.147226 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f449bd9ed4a92e06d659da724da745') in 0.014495 seconds
+  Import took 0.020878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.487504 seconds.
+  path: Packages/com.unity.ide.rider/package.json
+  artifactKey: Guid(66c95bb3c74257f41bae2622511dc02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.rider/package.json using Guid(66c95bb3c74257f41bae2622511dc02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff96f7b61e94a0dc9b975679be81ead9') in 0.008475 seconds
+  Import took 0.012345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.381928 seconds.
+  path: Packages/com.unity.nuget.newtonsoft-json/package.json
+  artifactKey: Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.nuget.newtonsoft-json/package.json using Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3887d1616531507fa9c4f23ac1ba7ce0') in 0.008048 seconds
+  Import took 0.013179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147756 seconds.
+  path: Packages/com.unity.test-framework/package.json
+  artifactKey: Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework/package.json using Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceca15118ea03e7ba9b0a601798f3381') in 0.006848 seconds
+  Import took 0.011461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141763 seconds.
+  path: Packages/com.unity.textmeshpro/package.json
+  artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6d4de5db3a39bcb3575c98dc9df750') in 0.005906 seconds
+  Import took 0.011683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.159304 seconds.
+  path: Packages/com.unity.timeline/package.json
+  artifactKey: Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/package.json using Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c6c08db8f434b9305b26de0687e812') in 0.008915 seconds
+  Import took 0.014178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136316 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d1f12f0f4420a8b9dea50868bbb5d0') in 0.008295 seconds
+  Import took 0.012883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.112214 seconds.
+  path: Packages/com.unity.collab-proxy/package.json
+  artifactKey: Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/package.json using Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22711bbe2ecf9b7a08a2aa13e19b453b') in 0.006945 seconds
+  Import took 0.010944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146813 seconds.
+  path: Packages/com.unity.ide.vscode/package.json
+  artifactKey: Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/package.json using Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121f7f00aee585d875a77b1339ac65f1') in 0.006257 seconds
+  Import took 0.010740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.191109 seconds.
+  path: Packages/com.unity.ide.visualstudio/package.json
+  artifactKey: Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/package.json using Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32caba3e38529b99f1ecfc90593e6e5b') in 0.007587 seconds
+  Import took 0.011968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1274.383766 seconds.
+  path: Assets/Scenes/StartScrene.unity
+  artifactKey: Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScrene.unity using Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e4cda8cf238b1aa88645a962d4be71') in 0.009538 seconds
+  Import took 0.043572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.036301 seconds.
+  path: Assets/Scenes/StartScrene.unity
+  artifactKey: Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScrene.unity using Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80bb93eb4cffed689b5b74c31525ee52') in 0.005671 seconds
+  Import took 0.012917 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1538 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.4 MB.
+System memory in use after: 191.5 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2085.
+Total: 4.822388 ms (FindLiveObjects: 0.600477 ms CreateObjectMapping: 0.161629 ms MarkObjects: 3.823827 ms  DeleteObjects: 0.234534 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 317.747905 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c7e9b597d32be4093eca6e58ebdf36') in 0.021196 seconds
+  Import took 0.025795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.949987 seconds.
+  path: Assets/Scenes/StartScrene.unity
+  artifactKey: Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScrene.unity using Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec70e8570877ee895d2fc507700ce87a') in 0.006125 seconds
+  Import took 0.041752 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010170 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1538 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.6 MB.
+System memory in use after: 191.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2088.
+Total: 4.810824 ms (FindLiveObjects: 0.669731 ms CreateObjectMapping: 0.253425 ms MarkObjects: 3.736507 ms  DeleteObjects: 0.148459 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.689 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1538 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.8 MB.
+System memory in use after: 191.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2091.
+Total: 4.181295 ms (FindLiveObjects: 0.483230 ms CreateObjectMapping: 0.210681 ms MarkObjects: 3.385102 ms  DeleteObjects: 0.100516 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.768 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1538 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.9 MB.
+System memory in use after: 192.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 4.111892 ms (FindLiveObjects: 0.888482 ms CreateObjectMapping: 0.209746 ms MarkObjects: 2.888503 ms  DeleteObjects: 0.123448 ms)
+
