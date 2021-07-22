@@ -347,3 +347,11 @@ System memory in use after: 165.7 MB.
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2062.
 Total: 2.284143 ms (FindLiveObjects: 0.194145 ms CreateObjectMapping: 0.060090 ms MarkObjects: 1.930183 ms  DeleteObjects: 0.098895 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 16935.082597 seconds.
+  path: Assets/Materials/Blur.mat
+  artifactKey: Guid(b5536886448f14f569d2607e1e4c648c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Blur.mat using Guid(b5536886448f14f569d2607e1e4c648c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '582e182a60b143885600df217e16d727') in 0.169151 seconds
+  Import took 0.195592 seconds .
+
