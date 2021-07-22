@@ -1123,3 +1123,123 @@ Received Import Request.
 Start importing Assets/Nicrom/PolyPacks/Wind/_Prefabs/LPW_Ground_A1_100x100_01.prefab using Guid(e4b7ee855e6fe0640ae15f3068cf68d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14cc8e7e178b286cfab93dd5ebd03923') in 0.019519 seconds
   Import took 0.023034 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 781.856473 seconds.
+  path: Assets/Brick_Material_Red_Rough-Hewn/Material
+  artifactKey: Guid(2ce1cebf98c20544aa5b8d74b9994f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick_Material_Red_Rough-Hewn/Material using Guid(2ce1cebf98c20544aa5b8d74b9994f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90fb8a79a4930eaf0ee295ce5f0459d2') in 0.004322 seconds
+  Import took 0.040951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.426541 seconds.
+  path: Assets/Nicrom/PolyPacks/Wind/_Prefabs/LPW_Grass_A1_40cm_01.prefab
+  artifactKey: Guid(b995a96a7ca36d04b851e46870b5aadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nicrom/PolyPacks/Wind/_Prefabs/LPW_Grass_A1_40cm_01.prefab using Guid(b995a96a7ca36d04b851e46870b5aadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13634777f829a9ecb0a3541cd775df98') in 0.049631 seconds
+  Import took 0.053356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 607.408254 seconds.
+  path: Assets/PavingStone/Demo
+  artifactKey: Guid(85f96dbd057019e4c8784cf6b42bdf46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Demo using Guid(85f96dbd057019e4c8784cf6b42bdf46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df64eb17eeda20f6feab646204d08b7') in 0.005349 seconds
+  Import took 0.039676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.057190 seconds.
+  path: Assets/PavingStone/Demo/DemoPlane.FBX
+  artifactKey: Guid(9e6bd8dc7d8a58343a33e5706ab13320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Demo/DemoPlane.FBX using Guid(9e6bd8dc7d8a58343a33e5706ab13320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49f084634ffd0e46eeb3dc3262e59f2') in 2.014661 seconds
+  Import took 2.125735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.256476 seconds.
+  path: Assets/PavingStone/Materials/PavingStone-01-Bad.mat
+  artifactKey: Guid(ce6cadbae9824864aaf56355c258e337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Materials/PavingStone-01-Bad.mat using Guid(ce6cadbae9824864aaf56355c258e337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e399373e1fefab68a930c37050b4f3') in 0.174553 seconds
+  Import took 0.199287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/PavingStone/Materials/PavingStone-01-Ruin.mat
+  artifactKey: Guid(df5f6fe720ad9084dac32fe369d2e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Materials/PavingStone-01-Ruin.mat using Guid(df5f6fe720ad9084dac32fe369d2e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550936d6fb58b6846b69134572a2eb44') in 0.123183 seconds
+  Import took 0.149799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/PavingStone/Materials/PavingStone-01-Good.mat
+  artifactKey: Guid(0fcd03894e392f84ba2f625e4a9ee7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Materials/PavingStone-01-Good.mat using Guid(0fcd03894e392f84ba2f625e4a9ee7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9a21d35a8a56abceaf390383ee22b1') in 0.121929 seconds
+  Import took 0.142512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/PavingStone/Materials/PavingStone-01-Perfect.mat
+  artifactKey: Guid(dedc1d9470dafe046866e641dc6d6b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Materials/PavingStone-01-Perfect.mat using Guid(dedc1d9470dafe046866e641dc6d6b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18894a4cf947c552a15c02a288c6e8b5') in 0.121395 seconds
+  Import took 0.142288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.244066 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01
+  artifactKey: Guid(201a235dab15ee14aa2745b573295f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01 using Guid(201a235dab15ee14aa2745b573295f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187a87f271c1f74a936b59ebf04b35cc') in 0.001410 seconds
+  Import took 0.005614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.462624 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad
+  artifactKey: Guid(db4a5f8fbc9b50440b140a603694b22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad using Guid(db4a5f8fbc9b50440b140a603694b22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0117cbab2dccf39750406f30e8102a3b') in 0.001243 seconds
+  Import took 0.009037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066758 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Albedo.png
+  artifactKey: Guid(7c945f6b44a67e647b20f0fa8eba5157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Albedo.png using Guid(7c945f6b44a67e647b20f0fa8eba5157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c109bc6e5aee0ef2bc20393a698ecd7b') in 0.096869 seconds
+  Import took 0.113634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Specular.png
+  artifactKey: Guid(3e7f281081bf77e4b93723b8e45a6749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Specular.png using Guid(3e7f281081bf77e4b93723b8e45a6749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44a29531beb8ab6cfbf7a93a1aafb31') in 0.045115 seconds
+  Import took 0.054541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-HeightMap.png
+  artifactKey: Guid(12dd1bb8ad408024cac817bef8e73de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-HeightMap.png using Guid(12dd1bb8ad408024cac817bef8e73de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48adb0ba970fbbcb62d17cdbc3d5c93b') in 0.031340 seconds
+  Import took 0.042610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-NormalMap.png
+  artifactKey: Guid(4ccba7430b5e25949b05ced16c1979d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-NormalMap.png using Guid(4ccba7430b5e25949b05ced16c1979d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0368714f3d8aa835eae04f26b250491d') in 0.280420 seconds
+  Import took 0.294628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Occlusion.png
+  artifactKey: Guid(ba32f6da598d79f489ca6ed57aba27bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PavingStone/Textures/PavingStone-01/PavingStone-01-Bad/PavingStone-01-Bad-Occlusion.png using Guid(ba32f6da598d79f489ca6ed57aba27bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893b1d3df96f8856c5f1e42ba574302d') in 0.048050 seconds
+  Import took 0.058060 seconds .
+
