@@ -47,7 +47,7 @@ public class Player : MonoBehaviour
 
 	[Header("References")]
 
-	CharacterController myController;
+	public CharacterController myController;
 
 	DoubleJump doubleJump;
 
@@ -198,7 +198,7 @@ public class Player : MonoBehaviour
             animator.SetFloat("Speed",0);
         }
     }
-    
+
     bool IsIdle()
     {
         if(!Input.GetKey(KeyCode.W) && 

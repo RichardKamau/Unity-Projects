@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
 {
 
 	public CoinManager coinManager;
+
+	public Checkpoint checkpoint;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,4 +19,5 @@ public class GameManager : MonoBehaviour
     {
         
     }
+
 }
