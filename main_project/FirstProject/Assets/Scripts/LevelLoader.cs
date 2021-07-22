@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader : MonoBehaviour
 
+
 {
 	public int levelToLoad;
     // Start is called before the first frame update
@@ -31,5 +32,10 @@ public class LevelLoader : MonoBehaviour
     	{
     		LoadLevel();
     	}
+    }
+
+    public void ExitGame()
+    {
+    	Application.Quit();
     }
 }

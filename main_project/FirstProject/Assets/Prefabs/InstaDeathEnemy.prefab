@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5669038305280291695}
   - component: {fileID: 6202762590016977914}
   - component: {fileID: 2953458329567438362}
+  - component: {fileID: 5800343194002165218}
   m_Layer: 0
   m_Name: InstaDeathEnemy
   m_TagString: Untagged
@@ -114,3 +115,16 @@ MonoBehaviour:
   xPatrol: 0
   direction: {x: 0, y: 0, z: 0}
   myController: {fileID: 0}
+--- !u!114 &5800343194002165218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2288601960051824069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d49d2e5725ad46f4ae6d8c6d87dd53c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelToLoad: 3

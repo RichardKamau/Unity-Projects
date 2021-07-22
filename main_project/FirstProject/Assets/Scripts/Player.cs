@@ -71,6 +71,12 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Quit game code
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+
         // setting keybinds for movement
         if (Input.GetKey(KeyCode.W))
         {
@@ -191,9 +197,8 @@ public class Player : MonoBehaviour
         {
             animator.SetFloat("Speed",0);
         }
-
     }
-
+    
     bool IsIdle()
     {
         if(!Input.GetKey(KeyCode.W) && 
