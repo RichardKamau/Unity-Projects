@@ -1,0 +1,419 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/richardkamau/unity_projects/main_project/FirstProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64906
+Successfully changed project path to: /Users/richardkamau/unity_projects/main_project/FirstProject
+/Users/richardkamau/unity_projects/main_project/FirstProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 176.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/richardkamau/unity_projects/main_project/FirstProject/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-29 14:08:40.019 Unity[52039:1079207] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-29 14:08:40.019 Unity[52039:1079207] Metal devices available: 1
+2021-07-29 14:08:40.019 Unity[52039:1079207] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-29 14:08:40.020 Unity[52039:1079207] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56039
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.012096 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 57.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.061 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010756 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.337 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1554 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 145.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1989.
+Total: 3.072460 ms (FindLiveObjects: 0.251329 ms CreateObjectMapping: 0.070103 ms MarkObjects: 2.624708 ms  DeleteObjects: 0.124895 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/ShoeScene.unity
+  artifactKey: Guid(26d3e2fdea53f43609de38d4e470befb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ShoeScene.unity using Guid(26d3e2fdea53f43609de38d4e470befb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05439cd59f2f96a0a3568bb13494c749') in 0.020208 seconds
+  Import took 0.026261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b7671eaa367853f86873a7d445cba4') in 0.001905 seconds
+  Import took 0.007091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.437985 seconds.
+  path: Assets/Scenes/StartScrene.unity
+  artifactKey: Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScrene.unity using Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e97df843bd8ca85abc8c414bd52fe44') in 0.003852 seconds
+  Import took 0.012359 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.1 MB.
+System memory in use after: 114.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1989.
+Total: 7.335574 ms (FindLiveObjects: 0.371641 ms CreateObjectMapping: 0.090888 ms MarkObjects: 6.824062 ms  DeleteObjects: 0.047067 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 375.311950 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/96b74c033ecb9465b96b3b6d4270ecf9 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-effddbf7498b944359984ab9063bb25b to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/96b74c033ecb9465b96b3b6d4270ecf9 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.921121 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.946730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029532 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/297222e67815740128de7a0a206bc701 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-22f42ccef78b54a6a9b1916c483101f9 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/297222e67815740128de7a0a206bc701 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.912940 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.917297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060835 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/68b2dbdd073684b8bb82c333bcad8599 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-75ff58f980a404e439d373c5ac9e8c42 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/68b2dbdd073684b8bb82c333bcad8599 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.914210 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.920089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045679 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/5dbbc450f558243cc9374efc074b2adc couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-796e6377f0c284662ac42cf6c4172fc4 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/5dbbc450f558243cc9374efc074b2adc failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.911561 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.916487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053105 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/30911ef4778d641d3b79ba6bf0e53160 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-8d3df988ac65746c8aa03a61a167edb3 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/30911ef4778d641d3b79ba6bf0e53160 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.914584 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.918304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042793 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/152cab34f196f4f14aa05aeec780d2f9 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-1662947e348ea499ab597387a9a06f27 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/152cab34f196f4f14aa05aeec780d2f9 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.912495 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.916228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047545 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/360aad425a37444edbac0d1bb5e5e9fb couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-a50eb40479aca4c609237e9ed244c4e2 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/360aad425a37444edbac0d1bb5e5e9fb failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.911944 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.916828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029488 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/1d5206d1e7e784969a58b73b84d50960 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-54eb761461f0844ddb9d582d1ccd0988 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/1d5206d1e7e784969a58b73b84d50960 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.909657 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.914673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/74bc0467e9afc4fd999e4292de8dece5 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-28319154f899443a691430530aef7897 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/74bc0467e9afc4fd999e4292de8dece5 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910486 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level2.unity'
+  Import took 1.915906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/26538f793325446bb977fc1961da0b26 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-3a35e172cdeca4e1ab54341ed127bc58 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/26538f793325446bb977fc1961da0b26 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.914644 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.919229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039039 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/72e57b178669d4767b3973321768e178 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-1a2c64d6124ca4f0388b64e1cdb6a648 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/72e57b178669d4767b3973321768e178 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.916736 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.922792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041249 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/904a8d35e2a4b40d78ed0fd9d36a0297 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-ff7058c3850ff409ca0757bbdeb4abe9 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/904a8d35e2a4b40d78ed0fd9d36a0297 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.914398 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.919348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032087 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/ff0bded201caa40bda4563ce237e792f couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-eb6f3d6205a38423083641f5821e6e79 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/ff0bded201caa40bda4563ce237e792f failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910448 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.915985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076448 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/7362c001422ce4833a63f91f2227362d couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-33945990cfe5944199d20b2ee7f519bd to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/7362c001422ce4833a63f91f2227362d failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910565 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.915394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.625271 seconds.
+  path: Assets/Tree_Textures/diffuse.png
+  artifactKey: Guid(0eee6125fa90f46b4b301263685ec742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures/diffuse.png using Guid(0eee6125fa90f46b4b301263685ec742) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/b1284365588844c7aad10514cf6b60ce couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-f3d8d4e7c3a724b87b3254a582aff670 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/b1284365588844c7aad10514cf6b60ce failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 2.487022 seconds
+  ERROR: Failed to write the asset file 'Assets/Tree_Textures/diffuse.png'
+  Import took 2.491319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Tree_Textures/shadow.png
+  artifactKey: Guid(ccb1ab55063234a5eb76d47afb6390bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures/shadow.png using Guid(ccb1ab55063234a5eb76d47afb6390bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/362639eca6f37499b8d008296e1fa678 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-2b6098d7a73be4edf8c24f70934870a1 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/362639eca6f37499b8d008296e1fa678 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.913577 seconds
+  ERROR: Failed to write the asset file 'Assets/Tree_Textures/shadow.png'
+  Import took 1.916874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Tree_Textures/normal_specular.png
+  artifactKey: Guid(3c293189c5e4f4a6882584f264520e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures/normal_specular.png using Guid(3c293189c5e4f4a6882584f264520e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/f6c22ba6bce5041d3b4c3f0f30b55d66 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-3def8e51b051946089a5b3b13bdf7817 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/f6c22ba6bce5041d3b4c3f0f30b55d66 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.912213 seconds
+  ERROR: Failed to write the asset file 'Assets/Tree_Textures/normal_specular.png'
+  Import took 1.915660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Tree_Textures/translucency_gloss.png
+  artifactKey: Guid(dc8d61ba9a8fb40d98ab4501f7cea033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures/translucency_gloss.png using Guid(dc8d61ba9a8fb40d98ab4501f7cea033) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/70e1cb6a61d9c4eeca238a04c3993c56 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-48c720bfe061f41d182325b3ee897fe9 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/70e1cb6a61d9c4eeca238a04c3993c56 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910695 seconds
+  ERROR: Failed to write the asset file 'Assets/Tree_Textures/translucency_gloss.png'
+  Import took 1.914066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Prefabs/DisplayWalls.prefab
+  artifactKey: Guid(63444e3f3b48c44bfbbceb8904055e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/DisplayWalls.prefab using Guid(63444e3f3b48c44bfbbceb8904055e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/7483ac84af60f4049aba2db6d304772d couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-c6e16f23524174ab382e90709528b2a6 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/7483ac84af60f4049aba2db6d304772d failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 2.520625 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/DisplayWalls.prefab'
+  Import took 2.524347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001491 seconds.
+  path: Assets/Prefabs/Rack.prefab
+  artifactKey: Guid(948c8bd7827044cc89f645486eab5e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rack.prefab using Guid(948c8bd7827044cc89f645486eab5e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/b43e3d60a4e464d9c8d5ec125c77bc2b couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-e676bbd372c9841f9892c2ee5c672ce7 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/b43e3d60a4e464d9c8d5ec125c77bc2b failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.917233 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/Rack.prefab'
+  Import took 1.921397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Prefabs/DisplayWalls.prefab
+  artifactKey: Guid(63444e3f3b48c44bfbbceb8904055e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/DisplayWalls.prefab using Guid(63444e3f3b48c44bfbbceb8904055e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/af0e8c041a0254371bcf8532449f3090 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-68c25fd084cc64be49e7f7bd68fffba3 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/af0e8c041a0254371bcf8532449f3090 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.918574 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/DisplayWalls.prefab'
+  Import took 1.922201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Prefabs/Rack.prefab
+  artifactKey: Guid(948c8bd7827044cc89f645486eab5e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rack.prefab using Guid(948c8bd7827044cc89f645486eab5e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/110ab8b199c394470b954af67230670c couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-fc1e747643af34f08b4480ccc1de5325 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/110ab8b199c394470b954af67230670c failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.913981 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/Rack.prefab'
+  Import took 1.918346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Prefabs/DisplayWalls.prefab
+  artifactKey: Guid(63444e3f3b48c44bfbbceb8904055e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/DisplayWalls.prefab using Guid(63444e3f3b48c44bfbbceb8904055e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/e642d76ec0892497681546afd6f5eac9 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-c6fa1d6341e8b400d8385781793d9f30 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/e642d76ec0892497681546afd6f5eac9 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.915779 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/DisplayWalls.prefab'
+  Import took 1.921735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022476 seconds.
+  path: Assets/Prefabs/Rack.prefab
+  artifactKey: Guid(948c8bd7827044cc89f645486eab5e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rack.prefab using Guid(948c8bd7827044cc89f645486eab5e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/6e02c9ccacb0b4322bb266dc95d6b469 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-3f65a6b567f4a45689e0945699c91037 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/6e02c9ccacb0b4322bb266dc95d6b469 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.917001 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/Rack.prefab'
+  Import took 1.921432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/Prefabs/Banner (1).prefab
+  artifactKey: Guid(b334e526295d64b5d874307d1d9196b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Banner (1).prefab using Guid(b334e526295d64b5d874307d1d9196b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/c0007dc172ded460287560e19526eb30 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-306a725fe810a4ec4beb72cac946dc72 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/c0007dc172ded460287560e19526eb30 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.914842 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/Banner (1).prefab'
+  Import took 1.918131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(eaad78ef41b634e7c95ec1571b63053f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(eaad78ef41b634e7c95ec1571b63053f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/32d68b8781afa4a79a95d94ee055df86 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-e55d25f3b4dd64e51a95b134841aa0fc to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/32d68b8781afa4a79a95d94ee055df86 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.916740 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/Coin.prefab'
+  Import took 1.921194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001941 seconds.
+  path: Assets/Prefabs/Level-Platform.prefab
+  artifactKey: Guid(9138771b0a074432aad0b9e374626dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Level-Platform.prefab using Guid(9138771b0a074432aad0b9e374626dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/49f3ed8c55b7646599d205456463c8a8 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-40151acf49def468795d67c7bfaf3af0 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/49f3ed8c55b7646599d205456463c8a8 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.911798 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/Level-Platform.prefab'
+  Import took 1.915814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Prefabs/MovingPlatform.prefab
+  artifactKey: Guid(10c9a3030b03d429d8f134c230e5e21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/MovingPlatform.prefab using Guid(10c9a3030b03d429d8f134c230e5e21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/e7081cd80eca04750b27142d43e1847e couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-211e292f503ae457894fe64cce9519bc to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/e7081cd80eca04750b27142d43e1847e failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.915995 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/MovingPlatform.prefab'
+  Import took 1.920029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Prefabs/InstaDeathEnemy.prefab
+  artifactKey: Guid(03710a5007285432180cc9037b1db7b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/InstaDeathEnemy.prefab using Guid(03710a5007285432180cc9037b1db7b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/c6f17a27efd5946bca43a5f1b74897c6 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-e0701cf47e3164742b4ceac86b738c1b to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/c6f17a27efd5946bca43a5f1b74897c6 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.917472 seconds
+  ERROR: Failed to write the asset file 'Assets/Prefabs/InstaDeathEnemy.prefab'
+  Import took 1.922305 seconds .
+

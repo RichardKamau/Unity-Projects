@@ -12,89 +12,676 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64906
+65070
 Successfully changed project path to: /Users/richardkamau/unity_projects/main_project/FirstProject
 /Users/richardkamau/unity_projects/main_project/FirstProject
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 176.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 157.24 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.11f1 (99c7afb366b3)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/richardkamau/unity_projects/main_project/FirstProject/Assets
 GfxDevice: creating device client; threaded=0
-2021-07-29 14:08:40.019 Unity[52039:1079207] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
-2021-07-29 14:08:40.019 Unity[52039:1079207] Metal devices available: 1
-2021-07-29 14:08:40.019 Unity[52039:1079207] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
-2021-07-29 14:08:40.020 Unity[52039:1079207] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-29 14:44:35.706 Unity[53707:1103550] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-29 14:44:35.706 Unity[53707:1103550] Metal devices available: 1
+2021-07-29 14:44:35.706 Unity[53707:1103550] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-29 14:44:35.708 Unity[53707:1103550] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56039
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56707
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.012096 seconds.
+Registered in 0.002602 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 57.95 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 80.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.061 seconds
+- Completed reload, in  7.159 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010756 seconds.
+Registered in 0.011302 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.337 seconds
+- Completed reload, in  3.521 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 145.1 MB.
+System memory in use before: 145.2 MB.
 System memory in use after: 145.2 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1989.
-Total: 3.072460 ms (FindLiveObjects: 0.251329 ms CreateObjectMapping: 0.070103 ms MarkObjects: 2.624708 ms  DeleteObjects: 0.124895 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 5.248407 ms (FindLiveObjects: 0.616280 ms CreateObjectMapping: 0.194813 ms MarkObjects: 4.283322 ms  DeleteObjects: 0.149926 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/ShoeScene.unity
-  artifactKey: Guid(26d3e2fdea53f43609de38d4e470befb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/ShoeScene.unity using Guid(26d3e2fdea53f43609de38d4e470befb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05439cd59f2f96a0a3568bb13494c749') in 0.020208 seconds
-  Import took 0.026261 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000446 seconds.
   path: Assets/Scenes/Level1.unity
   artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b7671eaa367853f86873a7d445cba4') in 0.001905 seconds
-  Import took 0.007091 seconds .
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bf63eb431d024a2c3c36fe4488797e') in 0.025980 seconds
+  Import took 0.032975 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 165.437985 seconds.
-  path: Assets/Scenes/StartScrene.unity
-  artifactKey: Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StartScrene.unity using Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e97df843bd8ca85abc8c414bd52fe44') in 0.003852 seconds
-  Import took 0.012359 seconds .
+  Time since last request: 1.892513 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Box.fbx
+  artifactKey: Guid(aa796bd7b39d8d946960ce56178f4ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Box.fbx using Guid(aa796bd7b39d8d946960ce56178f4ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4466ec5bc9ec8621b42dfacb05ddefe6') in 1.168916 seconds
+  Import took 1.175229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_stand_5.fbx
+  artifactKey: Guid(c73fdb01438612042a109a27b03cc26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_stand_5.fbx using Guid(c73fdb01438612042a109a27b03cc26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978c038fcd6f031f68164cc8c144ade6') in 0.393926 seconds
+  Import took 0.403009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_wooden_rack_1.fbx
+  artifactKey: Guid(da1917504f183704c9e868ddc9a883bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_wooden_rack_1.fbx using Guid(da1917504f183704c9e868ddc9a883bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1e0314a30aba3fbcec4f72228c7ea9') in 0.061283 seconds
+  Import took 0.066549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Building.fbx
+  artifactKey: Guid(492ad0fe9fb68ed468a76920cb0b6e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Building.fbx using Guid(492ad0fe9fb68ed468a76920cb0b6e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc1733dc0b122c549e153bedcceeb477') in 0.698147 seconds
+  Import took 0.717403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_seats.fbx
+  artifactKey: Guid(ddc0a570c7efbdb4b97d2ea7caa87820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_seats.fbx using Guid(ddc0a570c7efbdb4b97d2ea7caa87820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850c49325a0400df7ecbb42e9f47aa88') in 0.100464 seconds
+  Import took 0.110875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_ceiling.fbx
+  artifactKey: Guid(3b6ba225c80f4644bb529927e7cf58ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_ceiling.fbx using Guid(3b6ba225c80f4644bb529927e7cf58ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f934f55894ad1e989fc4d58c8034718') in 0.060460 seconds
+  Import took 0.067661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_rack_1.fbx
+  artifactKey: Guid(6170fcf3b477fbb4e84f350dd5b17b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_rack_1.fbx using Guid(6170fcf3b477fbb4e84f350dd5b17b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d597af6a1ccf1d7a9b0af5c166b932a') in 0.053372 seconds
+  Import took 0.059725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Flower.fbx
+  artifactKey: Guid(4e9030ef49a5f3041b2b6320e78fb5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Flower.fbx using Guid(4e9030ef49a5f3041b2b6320e78fb5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93cf5f64422cade620daf1f0a74a232b') in 0.639688 seconds
+  Import took 0.647045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_rack_5.fbx
+  artifactKey: Guid(44142be63e4e9b74ca7c2d7150de3048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_rack_5.fbx using Guid(44142be63e4e9b74ca7c2d7150de3048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159c1dd1c6b1ea1e3e119915a340e679') in 0.088664 seconds
+  Import took 0.094670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_wall_rack.fbx
+  artifactKey: Guid(438cdc803cb03b64183f52df16f5e44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_wall_rack.fbx using Guid(438cdc803cb03b64183f52df16f5e44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460342ea92632ca6c00f9cb24d5ed6dd') in 0.111047 seconds
+  Import took 0.118350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_banner_1.fbx
+  artifactKey: Guid(ad48601b7799a0348b811dade7b18477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_banner_1.fbx using Guid(ad48601b7799a0348b811dade7b18477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f60c7d0e0f250b1d957e562c09839f') in 0.077748 seconds
+  Import took 0.084560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/carpets.fbx
+  artifactKey: Guid(0fdba4c734d39f04991e74d6d3b73e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/carpets.fbx using Guid(0fdba4c734d39f04991e74d6d3b73e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6582076eaf5bc245077e6d92bc496792') in 0.167785 seconds
+  Import took 0.173843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001712 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_stand_4.fbx
+  artifactKey: Guid(925b8ab9aa86b68429f39997a5a71924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_stand_4.fbx using Guid(925b8ab9aa86b68429f39997a5a71924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55cd4d2d650634570e68a32087f86a9') in 0.051955 seconds
+  Import took 0.058571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_wooden_rack_2.fbx
+  artifactKey: Guid(7b432d3b577896c488ff572e8d10b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_wooden_rack_2.fbx using Guid(7b432d3b577896c488ff572e8d10b11e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c756c084a672f85680cc83a01e0181') in 0.096483 seconds
+  Import took 0.102574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_lamp.fbx
+  artifactKey: Guid(4c076d2fa4338ac4db3a933bf968cab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_lamp.fbx using Guid(4c076d2fa4338ac4db3a933bf968cab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e34d8ecd9a8e12cd7b0c7f2c4aed1f00') in 0.352252 seconds
+  Import took 0.358820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_stand_3.fbx
+  artifactKey: Guid(cab0638a366977b48aa039f4fd7eb4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_stand_3.fbx using Guid(cab0638a366977b48aa039f4fd7eb4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2fcd8613ae7cfb9b62f6eed84bd4b24') in 0.049396 seconds
+  Import took 0.054733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/props.fbx
+  artifactKey: Guid(ed7cf135c764888459735c3f3eeeb75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/props.fbx using Guid(ed7cf135c764888459735c3f3eeeb75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650b3830f5d1d02a3c771dd74fb33667') in 0.150585 seconds
+  Import took 0.156907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/exit.fbx
+  artifactKey: Guid(4f5aaea01c3b21e4fab1667b93053d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/exit.fbx using Guid(4f5aaea01c3b21e4fab1667b93053d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ae579d0dce846aa3dcad4d9968e3a1') in 0.821032 seconds
+  Import took 0.825121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_lamp.prefab
+  artifactKey: Guid(e997f4ea88ac10c4ca822446c13c935f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_lamp.prefab using Guid(e997f4ea88ac10c4ca822446c13c935f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2c1c22a685ce5812ecdc8a2d824990') in 0.321208 seconds
+  Import took 0.327529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_banner_3.prefab
+  artifactKey: Guid(9728164b4fdbd0841af3d825426b8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_banner_3.prefab using Guid(9728164b4fdbd0841af3d825426b8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f1d429e87c905dd05e833c5b5a6d4e') in 0.033336 seconds
+  Import took 0.038354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_5.prefab
+  artifactKey: Guid(41972db6e0d4c0f4cbc7e774082c63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_5.prefab using Guid(41972db6e0d4c0f4cbc7e774082c63ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c879e457d56ea07375c8c2734c46ad5') in 0.078140 seconds
+  Import took 0.088156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_lamp_1.prefab
+  artifactKey: Guid(fbda4cf32ee6acd43a459b879e0a7543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_lamp_1.prefab using Guid(fbda4cf32ee6acd43a459b879e0a7543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8827e94d7c1c3c5f4b54e6524e273e9') in 0.048731 seconds
+  Import took 0.055787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_5.prefab
+  artifactKey: Guid(47ce5b5c4aa26584b8c3a1bc949b2478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_5.prefab using Guid(47ce5b5c4aa26584b8c3a1bc949b2478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7118f4ce7147a17315c5880d8645b6b0') in 0.069018 seconds
+  Import took 0.079111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_carpet_1.prefab
+  artifactKey: Guid(b8f037108288f5941be6c1b3626ad478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_carpet_1.prefab using Guid(b8f037108288f5941be6c1b3626ad478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe023107682fae4bf1633901ba32261') in 0.043544 seconds
+  Import took 0.048806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_1.prefab
+  artifactKey: Guid(2790112b0bc637a4cae50a990c224eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_1.prefab using Guid(2790112b0bc637a4cae50a990c224eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317a8b8d91aa830fde5cf56cf815e1cf') in 0.039922 seconds
+  Import took 0.045074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_stand_1.fbx
+  artifactKey: Guid(386cee8fd170fe145aa9e2c03ff6c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_stand_1.fbx using Guid(386cee8fd170fe145aa9e2c03ff6c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9c29b700d8724dede5422237848a6c') in 0.062616 seconds
+  Import took 0.068028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_wooden_rack_1.prefab
+  artifactKey: Guid(31ba04f40caad144c9ce436ab5cae2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_wooden_rack_1.prefab using Guid(31ba04f40caad144c9ce436ab5cae2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6b4a8fe8587a8b0396b4a56c3864fe') in 0.042884 seconds
+  Import took 0.049166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs
+  artifactKey: Guid(8624c3799e628f444aa924bbf46f1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs using Guid(8624c3799e628f444aa924bbf46f1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e3e78788a110dad795c9a2501a00b5') in 0.001667 seconds
+  Import took 0.006777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/Box.prefab
+  artifactKey: Guid(369c75cda185e3c49bfadd57a9b7b762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/Box.prefab using Guid(369c75cda185e3c49bfadd57a9b7b762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eba2171481e3e8dcc6d43f75e56bc85') in 0.061494 seconds
+  Import took 0.066449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_carpet_2.prefab
+  artifactKey: Guid(b8443bea4728d0d45979e6de79b4981a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_carpet_2.prefab using Guid(b8443bea4728d0d45979e6de79b4981a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eabb446a42e201dfb7d0e5f80fccb1d5') in 0.036227 seconds
+  Import took 0.041086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_stand_2.fbx
+  artifactKey: Guid(33ea6274becda2d459c93f3a3d122e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_stand_2.fbx using Guid(33ea6274becda2d459c93f3a3d122e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd39b83787f489668141602b3e3f939d') in 0.088140 seconds
+  Import took 0.093834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_2.prefab
+  artifactKey: Guid(fdf2982eb955b0d46928c1976ed773de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_2.prefab using Guid(fdf2982eb955b0d46928c1976ed773de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7c729d105d8ba10f8fb491bc7b4b5e') in 0.041328 seconds
+  Import took 0.046932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_2.prefab
+  artifactKey: Guid(edbb513d7bfdd9747bf46a189112f1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_2.prefab using Guid(edbb513d7bfdd9747bf46a189112f1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1fda2fa2399ba8bb2452f0ae5fb006d') in 0.050027 seconds
+  Import took 0.056015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/Flower.prefab
+  artifactKey: Guid(79777f0551a1bd94ab2177b6a13630f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/Flower.prefab using Guid(79777f0551a1bd94ab2177b6a13630f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f512dae9a7c1564f82c3f64fc9574ea7') in 0.042824 seconds
+  Import took 0.048447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_rack_4.fbx
+  artifactKey: Guid(b79dddfcbbc5a8b47b1b87ca05ea70f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_rack_4.fbx using Guid(b79dddfcbbc5a8b47b1b87ca05ea70f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519da689fdd68446061a55896c1ae503') in 0.134009 seconds
+  Import took 0.141451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_banner_3.fbx
+  artifactKey: Guid(f1275ee11a271f244a4be2445982c901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_banner_3.fbx using Guid(f1275ee11a271f244a4be2445982c901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cd2512c255c4b90d7f733d9a851a2c') in 0.047481 seconds
+  Import took 0.053449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001496 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/Building.prefab
+  artifactKey: Guid(4a1f79a81ffd87e40b534dd889c10ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/Building.prefab using Guid(4a1f79a81ffd87e40b534dd889c10ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b08d99c80f4b4cecf091d9c5a83b9ef') in 0.282278 seconds
+  Import took 0.303786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/exit.prefab
+  artifactKey: Guid(f8578f7089704654ea19ad8ff72625b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/exit.prefab using Guid(f8578f7089704654ea19ad8ff72625b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ff2e99ea3eff865350e615bf88f08e') in 0.048084 seconds
+  Import took 0.054696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/showroom.fbx
+  artifactKey: Guid(d517c2fe9ae605f43b4c266b6c383ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/showroom.fbx using Guid(d517c2fe9ae605f43b4c266b6c383ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc650f85d7aaa13d90e202d779416ce3') in 0.048921 seconds
+  Import took 0.055517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_3.prefab
+  artifactKey: Guid(b697eac9e5f05424c87f485fe99832a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_3.prefab using Guid(b697eac9e5f05424c87f485fe99832a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89e9e251130a5fbfe28dfd6a61e0a45') in 0.046235 seconds
+  Import took 0.051165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002432 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_1.prefab
+  artifactKey: Guid(e292e4245b4798d498cfa0e0b8c931bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_1.prefab using Guid(e292e4245b4798d498cfa0e0b8c931bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c43b7cbeda0ebc1509fbe30c822fad7') in 0.078930 seconds
+  Import took 0.084981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_wooden_rack_2.prefab
+  artifactKey: Guid(07e526307cfcd354480b1587a54ae470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_wooden_rack_2.prefab using Guid(07e526307cfcd354480b1587a54ae470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3de285e98e9731cb5e6c81d4d4b155e') in 0.045467 seconds
+  Import took 0.052046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000884 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_3.prefab
+  artifactKey: Guid(0b6450487ca2d6044b82c965d23a15c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_3.prefab using Guid(0b6450487ca2d6044b82c965d23a15c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a769f4f19a5212b42f5b4fb09d77157e') in 0.056670 seconds
+  Import took 0.065690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_cashmachine 1.prefab
+  artifactKey: Guid(aa376726dc12d974d9e81fc2c70e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_cashmachine 1.prefab using Guid(aa376726dc12d974d9e81fc2c70e359d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb72c5e569ab115245763296d2dcbea') in 0.075445 seconds
+  Import took 0.080243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_mirrow.prefab
+  artifactKey: Guid(f89b147b630a04344982750437a022b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_mirrow.prefab using Guid(f89b147b630a04344982750437a022b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '981df2314113311db682f25d3c6192de') in 0.053731 seconds
+  Import took 0.058884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_4.prefab
+  artifactKey: Guid(2c46c10eeb379c24dbeffb4da908461f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_rack_4.prefab using Guid(2c46c10eeb379c24dbeffb4da908461f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d7fec82ad8d36122c654ffb69f238a') in 0.043453 seconds
+  Import took 0.052283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_ceiling.prefab
+  artifactKey: Guid(53dfdd9e80c6f844388a32ad7cb0ab53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_ceiling.prefab using Guid(53dfdd9e80c6f844388a32ad7cb0ab53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f66c545fbc78e52ba5f1b9b6502ee7d') in 0.048051 seconds
+  Import took 0.052288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_metalodetector.prefab
+  artifactKey: Guid(b00e594e665aaf64484c292cf2fd0350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_metalodetector.prefab using Guid(b00e594e665aaf64484c292cf2fd0350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd75d583c051a432c951ca941366361') in 0.048337 seconds
+  Import took 0.054382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_seats.prefab
+  artifactKey: Guid(7ab900be8edd8f748a730e5600d23b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_seats.prefab using Guid(7ab900be8edd8f748a730e5600d23b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fa3b0474f3fd3866208672b87ac3ee') in 0.095125 seconds
+  Import took 0.105502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_banner_1.prefab
+  artifactKey: Guid(a35741d39dab12947a186d6ad7ede02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_banner_1.prefab using Guid(a35741d39dab12947a186d6ad7ede02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6588acf27429a1b302c09ba9f9252e79') in 0.039251 seconds
+  Import took 0.043911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/shoes_icon.fbx
+  artifactKey: Guid(a1671339039d67d4185d8595533f1ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/shoes_icon.fbx using Guid(a1671339039d67d4185d8595533f1ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dd7b1d7d4dd342fef794c03807eb84') in 0.063670 seconds
+  Import took 0.070343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_4.prefab
+  artifactKey: Guid(3abe276d04d11ca4abadf6cb32ce1b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/Prefabs/SM_stand_4.prefab using Guid(3abe276d04d11ca4abadf6cb32ce1b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48b028a13d3f51fe03c505401e48bba') in 0.027691 seconds
+  Import took 0.036182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Shoes store - showroom with footwear/Models/SM_mirrow.fbx
+  artifactKey: Guid(2811c1df0e541504ba160fb5d7b4c2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shoes store - showroom with footwear/Models/SM_mirrow.fbx using Guid(2811c1df0e541504ba160fb5d7b4c2e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73df3ba928babef9cab5c73fbbe96fdc') in 0.077671 seconds
+  Import took 0.083793 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 5.83 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 7.44 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 114.1 MB.
-System memory in use after: 114.2 MB.
+System memory in use before: 130.2 MB.
+System memory in use after: 130.3 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1989.
-Total: 7.335574 ms (FindLiveObjects: 0.371641 ms CreateObjectMapping: 0.090888 ms MarkObjects: 6.824062 ms  DeleteObjects: 0.047067 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 11.472932 ms (FindLiveObjects: 0.682246 ms CreateObjectMapping: 0.084136 ms MarkObjects: 10.633414 ms  DeleteObjects: 0.071744 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 310.093216 seconds.
+  path: Assets/Scenes/StartScrene.unity
+  artifactKey: Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartScrene.unity using Guid(9b8a4cda50528481a9462476bbe3df0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e97df843bd8ca85abc8c414bd52fe44') in 0.003180 seconds
+  Import took 0.010271 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.4 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 3.463748 ms (FindLiveObjects: 0.239900 ms CreateObjectMapping: 0.066187 ms MarkObjects: 3.138473 ms  DeleteObjects: 0.017954 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.4 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 4.801665 ms (FindLiveObjects: 0.425486 ms CreateObjectMapping: 0.132886 ms MarkObjects: 4.223088 ms  DeleteObjects: 0.018866 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 240.742433 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/6a15c249f6cbf408ead44a4a7b72fca2 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-ecdbc4dac35904deeaf7ae134f9361cc to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/6a15c249f6cbf408ead44a4a7b72fca2 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.917602 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.934359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054490 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/e9d10d010e69c499bb9feae5ecf83af5 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-81ba8113e90f044469a39aeac926f4b3 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/e9d10d010e69c499bb9feae5ecf83af5 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.913694 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.918555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.619826 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/02c12a7983f61468fbef0fe7da02acd8 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-921cd4d82feac45f8a2f0a2509de0589 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/02c12a7983f61468fbef0fe7da02acd8 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.913361 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.918647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Scenes/Level2
+  artifactKey: Guid(fd01aae5e3b27457bb3b733f80b03fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2 using Guid(fd01aae5e3b27457bb3b733f80b03fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/60f83f7c75aa1444badd5cda4448687a couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-1fa725bb8efd041c281a981c29c10085 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/60f83f7c75aa1444badd5cda4448687a failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.913287 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level2'
+  Import took 1.918138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/a21fedd444bb844d38e3347e7bb68315 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-9aec98f602df34d16bc0aa75c5319135 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/a21fedd444bb844d38e3347e7bb68315 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.914851 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.919403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083367 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/148c6bf628d8c40458c074c1b3066c27 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-691307872add249429d66afe6321009a to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/148c6bf628d8c40458c074c1b3066c27 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910398 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.916245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078286 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/76086287278d2492e977bfa28616ecc1 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-4ad452b3a75fa4090a0bb2929ed6d9ce to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/76086287278d2492e977bfa28616ecc1 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910437 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.915419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088952 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/88da736c450774e7cab5d3767f35105f couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-f418102f99f8b4edf8c2c43e27545a36 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/88da736c450774e7cab5d3767f35105f failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.911111 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.916329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080449 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/73835ddc9610a4ed3b929dbd5cc680c5 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-dee8aa04fbc574da49c6225b643fe531 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/73835ddc9610a4ed3b929dbd5cc680c5 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.913884 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.919429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082097 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/9772fa153f2be4b2ea3a19f8b0517958 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-9248652ec93354882b3b22b4c4ea2a6b to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/9772fa153f2be4b2ea3a19f8b0517958 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.910706 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.916286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086023 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/fa285bc3bc7ed41b6afe5e799745f967 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-def2b9280957a40d5a623a33addae483 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/fa285bc3bc7ed41b6afe5e799745f967 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.909318 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.914570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081970 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/26feab47f023146c0922cbb64978bf47 couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-05a7362a4a3db4114b30b371395cdcb3 to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/26feab47f023146c0922cbb64978bf47 failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.915405 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.919373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082710 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) File VirtualArtifacts/NamedExtra/eeec53b7e271a4318a72229897055f4d couldn't be written. Because moving /Users/richardkamau/unity_projects/main_project/FirstProject/Temp/UnityTempFile-dab5c1e46fa4b44da92c79be1e05dbaf to /Users/richardkamau/unity_projects/main_project/FirstProject/Library/TempArtifacts/Extra/eeec53b7e271a4318a72229897055f4d failed.
+
+ -> (artifact id: '00000000000000000000000000000000') in 1.915414 seconds
+  ERROR: Failed to write the asset file 'Assets/Scenes/Level1.unity'
+  Import took 1.919731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075176 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(ae2de65f36f9a4e6b9f1ae576381f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
