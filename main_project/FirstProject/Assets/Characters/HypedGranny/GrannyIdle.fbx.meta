@@ -8,7 +8,7 @@ ModelImporter:
     second: mixamo.com
   - first:
       74: 2113834670795370425
-    second: IdleGranny
+    second: IdleSuitman
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -38,7 +38,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: IdleGranny
+      name: IdleSuitman
       takeName: mixamo.com
       internalID: 0
       firstFrame: 0

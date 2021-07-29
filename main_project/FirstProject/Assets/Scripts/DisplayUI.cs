@@ -29,6 +29,7 @@ public class DisplayUI : MonoBehaviour
     	{
     		GainShoe();
     		displayObject.SetActive(true);
+    		
     	}
     }
 
